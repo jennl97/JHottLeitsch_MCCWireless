@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JHottLeitsch_MCCWireless</string>
+    <string name="txtTitle">MCC Wireless</string>
+    <string name="txtOffer">10% off if you choose 2 or more offers!</string>
+    <string name="hint">How many phones on plan?</string>
+    <string name="radOne">Unlimited Data for $40/month per phone</string>
+    <string name="radTwo">Netflix and Hulu $15/month</string>
+    <string name="radThree">Direct TV $25/month</string>
+    <string name="btnCalc">Calculate Plan</string>
+    <string name="imgPhone">Cell Phones</string>
+</resources>
